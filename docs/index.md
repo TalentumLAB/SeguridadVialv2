@@ -1,9 +1,15 @@
 
-# Plan de acción y propuesta operativa
+# **Plan de acción y propuesta operativa**
 
 **Objetivo**
 : *Educación vial para instituciones no certificadas*
 
+# COMPONENTE 1: SERVICIO DE DESARROLLO DE CONTENIDOS EDUCATIVOS PARA LA EDUCACIÓN INICIAL, PREESCOLAR, BÁSICA Y MEDIA (PRODUCTO PRINCIPAL DEL PROYECTO)
+
+## **ACTIVIDAD 1.1. Producir la cartilla interactiva para los grados Octavo y Noveno en el marco de la estrategia didáctica transmedia “Demos Vía a la Vida”.**
+*NO INFO*
+
+---
 ## **Actividad 1.2: contenido gamificado tecnopedagogico para octavo y noveno**
 - Diseño tecno pedagogico gamificado octavo y noveno
 - Diseño grafico del contenido gamificado octavo y noveno
@@ -15,7 +21,7 @@
 *2 contenidos gamificados, 1 por cada grado (octavo y noveno). Asociados a la competencias de movilidad segura, metas de formación y desempeño de dichos grados.*
 
 - el diseño tecno pedagogico se desarrolla apartir del proceso de la **actividad 1.1**
-
+---
 
 ## **Actividad 1.3: Suministrar el kit institucional**
 Juego de Mesa para octavo y noveno
@@ -32,7 +38,7 @@ Juego de Mesa para octavo y noveno
 - Modulo de interacción
 - Fichas de juego
 - Anillos de recompensa
-
+---
 ## **Actividad 1.4: Actualizar Sistema de Información de los recursos de octavo y noveno para la gestión de conocimiento, monitoreo, seguimiento, análisis y evaluación de la información generada**
 _Despliega información sobre: Cartilla interactiva, contenidos gamificados, kit instituciona._
 
@@ -62,7 +68,35 @@ Los datos que se obtienen por municipio muestran:
 - La información más relevante para la labor docente es: número de intentos, número de aciertos y tiempo de respuesta.
 - El sistema de información permite la descarga de los datos en una hoja de cálculo
 
-### Subactividades de SI
+### **Subactividades de SI**
 - Identificación de requerimientos y estructuración de los datos para la articulación de los recursos tecno pedagógicos del grado octavo y noveno al sistema de información para la gestión del conocimiento en "Demos Vía a la Vida"
 - Articulación de la estructura de datos de los recursos tecno pedagógicos al sistema para la gestión del conocimiento en Demos Vía a la vida
 - Desarrollo de pruebas funcionales del sistema de información con la incorporación de la estructura de datos de los recursos tecno pedagógicos de los grados octavo y noveno
+
+### **Producto 3**
+Sistema de información actualizado con la información generada por los recursos tecno pedagógicos de los grados Octavo y Noveno
+- 149 instituciones
+- requerimientos de la estructura de datos (cartilla, contenidos gamificados, kit institucional)
+- generación de informes desde las 149 instituciones
+---
+# COMPONENTE 2: SERVICIO DE ASISTENCIA TÉCNICA EN EDUCACIÓN INICIAL, PREESCOLAR, BÁSICA Y MEDIA
+## **ACTIVIDAD 2.1. Establecer ruta metodológica para el uso y apropiación de los estudiantes y docentes de sexto y séptimo de las 149 I.E. de los municipios no certificados del valle del cauca de la estrategia didáctica transmedia "demos vía a la vida" en el marco de la educación vial como proyecto pedagógico transversal**
+*NO INFO*
+
+---
+## **Actividad 2.2. Establecer ruta metodológica para el uso y apropiación de los estudiantes y docentes de octavo y noveno de las 149 I.E. de los municipios no certificados del Valle del Cauca de la estrategia didáctica transmedia "Demos Vía a la vida “en el marco de la educación vial como proyecto pedagógico transversal.**
+*NO INFO*
+
+---
+## **Actividad 2.3: Entregar a las 149 I.E dispositivos móviles para la gestión, uso y apropiación de la estrategia didáctica transmedia "Demos Vía a la vida"**
+- Carga en los dispositivos móviles de los recursos tecno pedagógicos de la estrategia didáctica transmedia "Demos Vía a la vida" para los grados sexto, séptimo, octavo y noveno.
+- Manual de orientaciones para el uso de los dispositivos móviles en el marco de la de la estrategia didáctica transmedia "Demos Vía a la vida “para los grados sexto, séptimo, octavo y noveno.
+
+### **PRODUCTO Extra**
+4 dispositivos móviles entregados para cada una de las 149 I.E. para la gestión, uso y apropiación de la estrategia didáctica transmedia "Demos Vía a la vida"
+
+---
+## **Actividad 2.4. Ejecutar una estrategia de Educomunicación que apoye la ruta metodológica para el uso y apropiación de la estrategia didáctica transmedia "Demos Vía a la vida" en las 149 I.E. de los municipios no certificados del Valle del Cauca.**
+*NO INFO*
+
+---
