@@ -10,7 +10,7 @@
 
 # COMPONENTE 1: SERVICIO DE DESARROLLO DE CONTENIDOS EDUCATIVOS PARA LA EDUCACIÓN INICIAL, PREESCOLAR, BÁSICA Y MEDIA (PRODUCTO PRINCIPAL DEL PROYECTO)
 
-## **ACTIVIDAD 1.1. Producir la cartilla interactiva para los grados Octavo y Noveno en el marco de la estrategia didáctica transmedia “Demos Vía a la Vida”.**
+#### **ACTIVIDAD 1.1. Producir la cartilla interactiva para los grados Octavo y Noveno en el marco de la estrategia didáctica transmedia “Demos Vía a la Vida”.**
 *NO INFO*
 
 
@@ -27,6 +27,11 @@
 *2 contenidos gamificados, 1 por cada grado (octavo y noveno). Asociados a la competencias de movilidad segura, metas de formación y desempeño de dichos grados.*
 
 - el diseño tecno pedagogico se desarrolla apartir del proceso de la **actividad 1.1**
+
+## *Entregable de Cronograma*
+> 1.2.4. Realizar proceso de pruebas funcionales, técnicas y de experiencia de usuario a los contenidos gamificados.
+> 
+> Fecha Límite: **NOVIEMBRE**
 
 ---
 
@@ -91,16 +96,29 @@ Sistema de información actualizado con la información generada por los recurso
 - requerimientos de la estructura de datos (cartilla, contenidos gamificados, kit institucional)
 - generación de informes desde las 149 instituciones
 
+## *Entregable de Cronograma:*
+> 1.4.1. Identificación de requerimientos y estructuración de los datos para la articulación de los recursos tecnopedagógicos del grado octavo y noveno al sistema de información para la gestión del conocimiento en "Demos Vía a la Vida"
+> 
+> Fecha Límite: **OCTUBRE**
+
+> 1.4.2 Articulación   de   la  estructura  de   datos   de   los   recursos   tecnopedagógicos al sistema para la gestión del conocimiento en Demos Vía a la vida
+> 
+> Fecha Límite: **OCTUBRE Y NOVIEMBRE**
+
+> 1.4.3.Desarrollo de pruebas funcionales del sistema de información con la incorporación de la estructura de datos de los recursos tecnopedagógicos.
+> 
+> Fecha Límite: **NOVIEMBRE**
+
 ---
 
 # COMPONENTE 2: SERVICIO DE ASISTENCIA TÉCNICA EN EDUCACIÓN INICIAL, PREESCOLAR, BÁSICA Y MEDIA
-## **ACTIVIDAD 2.1. Establecer ruta metodológica para el uso y apropiación de los estudiantes y docentes de sexto y séptimo de las 149 I.E. de los municipios no certificados del valle del cauca de la estrategia didáctica transmedia "demos vía a la vida" en el marco de la educación vial como proyecto pedagógico transversal**
+#### **ACTIVIDAD 2.1. Establecer ruta metodológica para el uso y apropiación de los estudiantes y docentes de sexto y séptimo de las 149 I.E. de los municipios no certificados del valle del cauca de la estrategia didáctica transmedia "demos vía a la vida" en el marco de la educación vial como proyecto pedagógico transversal**
 *NO INFO*
 
 
 ---
 
-## **Actividad 2.2. Establecer ruta metodológica para el uso y apropiación de los estudiantes y docentes de octavo y noveno de las 149 I.E. de los municipios no certificados del Valle del Cauca de la estrategia didáctica transmedia "Demos Vía a la vida “en el marco de la educación vial como proyecto pedagógico transversal.**
+#### **Actividad 2.2. Establecer ruta metodológica para el uso y apropiación de los estudiantes y docentes de octavo y noveno de las 149 I.E. de los municipios no certificados del Valle del Cauca de la estrategia didáctica transmedia "Demos Vía a la vida “en el marco de la educación vial como proyecto pedagógico transversal.**
 *NO INFO*
 
 
@@ -113,10 +131,19 @@ Sistema de información actualizado con la información generada por los recurso
 ### **PRODUCTO Extra**
 4 dispositivos móviles entregados para cada una de las 149 I.E. para la gestión, uso y apropiación de la estrategia didáctica transmedia "Demos Vía a la vida"
 
+## *Entregable de Cronograma:*
+> 2.3.2. Carga en los dispositivos móviles de los recursos tecno pedagógicos de la estrategia didáctica transmedia "Demos Vía a la vida" para los grados sexto, séptimo, octavo y noveno.
+> 
+> Fecha Límite: **DICIEMBRE**
+
+
+> 2.3.3. Manual de orientaciones para el uso de los dispositivos móviles en el marco de la de la estrategia didáctica transmedia "Demos Vía a la vida “para los grados sexto, séptimo, octavo y noveno.
+> 
+> Fecha Límite: **DICIEMBRE**
 
 ---
 
-## **Actividad 2.4. Ejecutar una estrategia de Educomunicación que apoye la ruta metodológica para el uso y apropiación de la estrategia didáctica transmedia "Demos Vía a la vida" en las 149 I.E. de los municipios no certificados del Valle del Cauca.**
+#### **Actividad 2.4. Ejecutar una estrategia de Educomunicación que apoye la ruta metodológica para el uso y apropiación de la estrategia didáctica transmedia "Demos Vía a la vida" en las 149 I.E. de los municipios no certificados del Valle del Cauca.**
 *NO INFO*
 
 
