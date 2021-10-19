@@ -4,6 +4,10 @@
 **Objetivo**
 : *Educación vial para instituciones no certificadas*
 
+[Reunión](anotaciones.md)
+: 19 de octubre 2021
+
+
 # COMPONENTE 1: SERVICIO DE DESARROLLO DE CONTENIDOS EDUCATIVOS PARA LA EDUCACIÓN INICIAL, PREESCOLAR, BÁSICA Y MEDIA (PRODUCTO PRINCIPAL DEL PROYECTO)
 
 ## **ACTIVIDAD 1.1. Producir la cartilla interactiva para los grados Octavo y Noveno en el marco de la estrategia didáctica transmedia “Demos Vía a la Vida”.**
